@@ -1,0 +1,2 @@
+# MBCompressor
+Multiband Compressor Plugin
