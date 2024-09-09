@@ -1,0 +1,2 @@
+/Users/orizur/Desktop/MB_Compressor/build/CMakeFiles/edit_cache.dir
+/Users/orizur/Desktop/MB_Compressor/build/CMakeFiles/rebuild_cache.dir
